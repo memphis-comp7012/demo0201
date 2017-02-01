@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def lisa
   end
+
+  def bart
+  end
 end
